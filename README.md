@@ -1,1 +1,2 @@
-# Kaggle_Nvidia
+# About the repository
+This repo host the codes and practices from the Oranges team on the [Kaggle Challenge on Model Reasoning](https://www.kaggle.com/competitions/nvidia-nemotron-model-reasoning-challenge/overview) (NVIDIA Nemotron Model Reasoning Challenge).
